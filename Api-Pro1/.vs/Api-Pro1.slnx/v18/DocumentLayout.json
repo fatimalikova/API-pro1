@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1BF81D-11EB-386F-16E0-618AE4A00355}|Api-Pro1\\Api-Pro1.csproj|c:\\users\\fmeli\\onedrive\\desktop\\api-pro1\\api-pro1\\api-pro1\\dtos\\eventupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1BF81D-11EB-386F-16E0-618AE4A00355}|Api-Pro1\\Api-Pro1.csproj|solutionrelative:api-pro1\\dtos\\eventupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1BF81D-11EB-386F-16E0-618AE4A00355}|Api-Pro1\\Api-Pro1.csproj|c:\\users\\fmeli\\onedrive\\desktop\\api-pro1\\api-pro1\\api-pro1\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1BF81D-11EB-386F-16E0-618AE4A00355}|Api-Pro1\\Api-Pro1.csproj|solutionrelative:api-pro1\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1BF81D-11EB-386F-16E0-618AE4A00355}|Api-Pro1\\Api-Pro1.csproj|c:\\users\\fmeli\\onedrive\\desktop\\api-pro1\\api-pro1\\api-pro1\\dtos\\eventcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1BF81D-11EB-386F-16E0-618AE4A00355}|Api-Pro1\\Api-Pro1.csproj|solutionrelative:api-pro1\\dtos\\eventcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1BF81D-11EB-386F-16E0-618AE4A00355}|Api-Pro1\\Api-Pro1.csproj|c:\\users\\fmeli\\onedrive\\desktop\\api-pro1\\api-pro1\\api-pro1\\dtos\\eventresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1BF81D-11EB-386F-16E0-618AE4A00355}|Api-Pro1\\Api-Pro1.csproj|solutionrelative:api-pro1\\dtos\\eventresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1BF81D-11EB-386F-16E0-618AE4A00355}|Api-Pro1\\Api-Pro1.csproj|c:\\users\\fmeli\\onedrive\\desktop\\api-pro1\\api-pro1\\api-pro1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1BF81D-11EB-386F-16E0-618AE4A00355}|Api-Pro1\\Api-Pro1.csproj|solutionrelative:api-pro1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1BF81D-11EB-386F-16E0-618AE4A00355}|Api-Pro1\\Api-Pro1.csproj|c:\\users\\fmeli\\onedrive\\desktop\\api-pro1\\api-pro1\\api-pro1\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1BF81D-11EB-386F-16E0-618AE4A00355}|Api-Pro1\\Api-Pro1.csproj|solutionrelative:api-pro1\\entities\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1BF81D-11EB-386F-16E0-618AE4A00355}|Api-Pro1\\Api-Pro1.csproj|c:\\users\\fmeli\\onedrive\\desktop\\api-pro1\\api-pro1\\api-pro1\\entities\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1BF81D-11EB-386F-16E0-618AE4A00355}|Api-Pro1\\Api-Pro1.csproj|solutionrelative:api-pro1\\entities\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 311,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\Dtos\\EventUpdateDto.cs",
+              "RelativeDocumentMoniker": "Api-Pro1\\Dtos\\EventUpdateDto.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\Dtos\\EventUpdateDto.cs",
+              "RelativeToolTip": "Api-Pro1\\Dtos\\EventUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T08:39:40.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\Dtos\\EventCreateDto.cs",
+              "RelativeDocumentMoniker": "Api-Pro1\\Dtos\\EventCreateDto.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\Dtos\\EventCreateDto.cs",
+              "RelativeToolTip": "Api-Pro1\\Dtos\\EventCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T08:37:58.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\Dtos\\EventResponseDto.cs",
+              "RelativeDocumentMoniker": "Api-Pro1\\Dtos\\EventResponseDto.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\Dtos\\EventResponseDto.cs",
+              "RelativeToolTip": "Api-Pro1\\Dtos\\EventResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T08:36:02.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "Api-Pro1\\Entities\\Event.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\Entities\\Event.cs",
+              "RelativeToolTip": "Api-Pro1\\Entities\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T08:13:48.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\Program.cs",
+              "RelativeDocumentMoniker": "Api-Pro1\\Program.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\Program.cs",
+              "RelativeToolTip": "Api-Pro1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T08:04:48.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Organizer.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\Entities\\Organizer.cs",
+              "RelativeDocumentMoniker": "Api-Pro1\\Entities\\Organizer.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\Entities\\Organizer.cs",
+              "RelativeToolTip": "Api-Pro1\\Entities\\Organizer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T08:13:08.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\Entities\\Ticket.cs",
+              "RelativeDocumentMoniker": "Api-Pro1\\Entities\\Ticket.cs",
+              "ToolTip": "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\Entities\\Ticket.cs",
+              "RelativeToolTip": "Api-Pro1\\Entities\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T08:13:46.462Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
