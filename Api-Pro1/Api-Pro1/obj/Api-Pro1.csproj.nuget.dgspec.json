@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\Api-Pro1.csproj": {}
+    "C:\\Users\\fatimakhm\\Desktop\\API-pro1\\Api-Pro1\\Api-Pro1\\Api-Pro1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\Api-Pro1.csproj": {
+    "C:\\Users\\fatimakhm\\Desktop\\API-pro1\\Api-Pro1\\Api-Pro1\\Api-Pro1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\Api-Pro1.csproj",
+        "projectUniqueName": "C:\\Users\\fatimakhm\\Desktop\\API-pro1\\Api-Pro1\\Api-Pro1\\Api-Pro1.csproj",
         "projectName": "Api-Pro1",
-        "projectPath": "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\Api-Pro1.csproj",
-        "packagesPath": "C:\\Users\\fmeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fmeli\\OneDrive\\Desktop\\API-Pro1\\Api-Pro1\\Api-Pro1\\obj\\",
+        "projectPath": "C:\\Users\\fatimakhm\\Desktop\\API-pro1\\Api-Pro1\\Api-Pro1\\Api-Pro1.csproj",
+        "packagesPath": "C:\\Users\\fatimakhm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fatimakhm\\Desktop\\API-pro1\\Api-Pro1\\Api-Pro1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\fmeli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fatimakhm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,11 +26,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -45,12 +45,27 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -70,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300-preview.0.26177.108/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
