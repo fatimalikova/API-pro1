@@ -10,5 +10,6 @@ namespace Api_Pro1.Data
         public DbSet<Organizer> Organizers { get; set; }
         public DbSet<Ticket> Tickets { get; set; }
 
+        //override configure
     }
 }
