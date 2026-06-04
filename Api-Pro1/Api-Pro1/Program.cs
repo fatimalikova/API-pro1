@@ -3,7 +3,6 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-//later u must add resume
 builder.Services.AddControllers();
 
 // Database
