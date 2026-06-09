@@ -16,7 +16,6 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-//enable swagger
 app.UseSwagger();
 app.UseSwaggerUI();
 
