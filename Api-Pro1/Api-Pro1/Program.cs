@@ -5,7 +5,6 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 
-// Database
 var config = builder.Configuration;
 builder.Services.AddDbContext<EventDbContext>(options =>
     options.UseSqlServer(config.GetConnectionString("DefaultConnection")));
